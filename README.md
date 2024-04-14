@@ -4,7 +4,7 @@
 
 ## Descrição
 
-API REST desenvolvida em Java 21 e Spring 3. O desenvolvimento dessa aplicação fez parte de um evento oferecido pela [Rocketseat](https://github.com/rocketseat-education/), a NLW Unite. Essa API tem como principal finalidade ajudar organizadores de eventos presencias no gerenciamento de participantes. Com ela é possível:
+API REST desenvolvida em Java 21 e Spring Boot 3. O desenvolvimento dessa aplicação fez parte de um evento oferecido pela [Rocketseat](https://github.com/rocketseat-education/), a NLW Unite. Essa API tem como principal finalidade ajudar organizadores de eventos presencias no gerenciamento de participantes. Com ela é possível:
 
 - Criar novos eventos - **POST /events**
 - Adicionar novos participantes em um evento - **POST /events/{eventId}/attendees**
